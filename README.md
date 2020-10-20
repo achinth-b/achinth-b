@@ -1,4 +1,4 @@
-### good evening geniuses, I'm Achinth 🇨🇦
+### good evening geniuses, i'm achinth! 🇨🇦
 
 (he/his/they)
 
