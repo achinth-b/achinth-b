@@ -2,7 +2,7 @@
 
 (he/his/they)
 
-a third-year computer science and statistics student [@ubc](https://cs.ubc.ca) and developer [@ubclaunchpad](https://ubclaunchpad.com) who's into web dev, ml, data science, human-computer interaction, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
+a third-year computer science and statistics student [@ubc](https://cs.ubc.ca), developer [@ubclaunchpad](https://ubclaunchpad.com) and chancellor-president [@ubcpandas](https://ubcpandas.netlify.app) who's into web dev, ml, data science, human-computer interaction, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
 
 former swe intern [@boeing](http://www.boeing.com/commercial/services/flight-operations-solutions/) 🛩 !
 
