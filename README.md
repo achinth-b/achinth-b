@@ -2,9 +2,9 @@
 
 (he/his/they)
 
-a third-year computer science and statistics student [@ubc](https://cs.ubc.ca), sofware engineer intern [@covalenthq](https://covalenthq.com) former developer [@ubclaunchpad](https://ubclaunchpad.com) who's into data, development, design, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
+a fourth-year (still can't digest it) computer science and statistics student [@ubc](https://cs.ubc.ca), incoming intern [@tesla](https://tesla.com) former developer [@ubclaunchpad](https://ubclaunchpad.com) who's into data, development, design, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
 
-former swe intern [@boeing](http://www.boeing.com/commercial/services/flight-operations-solutions/) 🛩 !
+former swe intern [@boeing](http://www.boeing.com/commercial/services/flight-operations-solutions/) 🛩  and [@covalenthq](https://covalenthq.com)!
  
 feel free to hit me up! here's my contact details 😊
 
