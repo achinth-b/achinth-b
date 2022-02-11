@@ -2,7 +2,7 @@
 📍 vancouver, bc  
   (he/his/they)
 
-a fourth-year (still can't digest it) computer science and statistics student [@ubc](https://cs.ubc.ca), intern [@tesla](https://tesla.com), incoming [@meta](https://about.facebook.com/meta) and former developer [@ubclaunchpad](https://ubclaunchpad.com) who's into data, development, design, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
+a fourth-year (still can't digest it) computer science and statistics student [@ubc](https://cs.ubc.ca), former [@tesla](https://tesla.com), incoming [@meta](https://about.facebook.com/meta) who's into data, development, design, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
 
 former swe intern [@boeing](http://www.boeing.com/commercial/services/flight-operations-solutions/) and [@covalenthq](https://covalenthq.com)!
  
