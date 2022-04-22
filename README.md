@@ -1,10 +1,7 @@
 ### good evening geniuses, i'm achinth! 🇨🇦
 📍 vancouver, bc  
-  (he/his/they)
-
-a fourth-year (still can't digest it) computer science and statistics student [@ubc](https://cs.ubc.ca), former [@tesla](https://tesla.com), incoming [@meta](https://about.facebook.com/meta) who's into data, development, design, playing a crap ton of ultimate 🥏, hiking my way through all of western North America and (hopefully, after covid) the Alps 🏔  and most importantly, making software with 💖.
-
-former swe intern [@boeing](http://www.boeing.com/commercial/services/flight-operations-solutions/) and [@covalenthq](https://covalenthq.com)!
+ 
+a fourth-year computer science + statistics student [@ubc](https://cs.ubc.ca), former [@tesla](https://tesla.com), incoming [@meta](https://about.facebook.com/meta) who's into data, dev, ML, ultimate 🥏, hiking my way through North America and most importantly, making software with 💖.
  
 feel free to hit me up! here's my contact details 😊
 
