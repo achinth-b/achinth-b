@@ -1,7 +1,7 @@
 ### good evening, i'm achinth! 
 📍 new york, ny / vancouver, bc
 
-💻 former [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com),
+💻 former [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com), startups
  
 📚 fourth-year computer science + statistics student [@ubc](https://cs.ubc.ca), 
 
