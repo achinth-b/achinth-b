@@ -7,7 +7,7 @@
 
 ❤️ who's into ML, ultimate 🥏, hiking through North America, politics, climbing and most importantly, making software with 💖.
  
- ❗ looking for 2023 full time opportunities in san francisco and new york :)
+ ❗ looking for 2023 full time opportunities in new york :)
  
 feel free to hit me up! here's my contact details 😊
 
