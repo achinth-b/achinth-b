@@ -5,9 +5,9 @@
  
 📚 fourth-year computer science + statistics student [@ubc](https://cs.ubc.ca), 
 
-❤️ who's into ML, ultimate 🥏, hiking through North America, politics, climbing and most importantly, making software with 💖.
+❤️ ML, ultimate, hiking, politics, biking, climbing and making software with 💖.
  
- ❗ looking for 2023 full time opportunities in new york :)
+ ❗ looking for 2023 ft opportunities in nyc :)
  
 feel free to hit me up! here's my contact details 😊
 
