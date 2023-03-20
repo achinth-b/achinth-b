@@ -3,7 +3,7 @@
 
 💻 former [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com), startups
  
-📚 fourth-year computer science + statistics student [@ubc](https://cs.ubc.ca), 
+📚 fifth-year computer science + statistics student [@ubc](https://cs.ubc.ca)
 
 ❤️ ML, ultimate, hiking, politics, biking, climbing and making software with 💖.
  
