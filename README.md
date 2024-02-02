@@ -1,9 +1,9 @@
 ### good evening, i'm achinth! 
 📍 new york, ny / vancouver, bc
 
-💻 former [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com), startups
+💻 [@palantir](https://palantir.com)former [@ubcresearch](), [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com), startups
  
-📚 fifth-year computer science + statistics student [@ubc](https://cs.ubc.ca)
+📚 computer science + statistics 2023 [@ubc](https://cs.ubc.ca)
 
 ❤️ ML, ultimate, hiking, politics, biking, climbing and making software with 💖.
  
