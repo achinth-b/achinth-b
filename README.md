@@ -7,7 +7,7 @@
 
 ❤️ ML, ultimate, hiking, politics, biking, climbing and making software with 💖.
  
- ❗ looking for 2023 ft opportunities in nyc :)
+ ❗ always looking for ml engineering and research opportunities in nyc :)
  
 feel free to hit me up! here's my contact details 😊
 
