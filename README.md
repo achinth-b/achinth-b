@@ -1,4 +1,4 @@
-### good evening, i'm achinth! 
+### hi, i'm achinth! 
 📍 vancouver, bc / new york, ny 
 
 💻  [@corner](https://corner.inc), former [@palantir](https://palantir.com), [@meta](https://meta.com), [@tesla](https://tesla.com), startups
