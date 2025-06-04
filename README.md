@@ -1,17 +1,17 @@
 ### good evening, i'm achinth! 
-📍 new york, ny / vancouver, bc
+📍 vancouver, bc / new york, ny 
 
 💻  [@corner](https://corner.inc), former [@palantir](https://palantir.com), [@meta](https://meta.com), [@tesla](https://tesla.com), startups
  
 📚 computer science + statistics 2023 [@ubc](https://cs.ubc.ca)
 
-❤️ ML, ultimate, hiking, politics, biking, climbing and making software with 💖.
+❤️ ML, ultimate, hiking, politics, biking and making software with 💖.
  
- ❗ always looking for ml engineering and research opportunities in nyc :)
+❗ always looking for ml engineering and research opportunities :)
  
 feel free to hit me up! here's my contact details 😊
 
-📫 [linkedin](https://linkedin.com/in/achinthb) | [portfolio](https://achinth.ca)
+📫 [linkedin](https://linkedin.com/in/achinthb) | [portfolio](https://achinth.xyz)
 
 
 <a href="https://github.com/anuraghazra/convoychat">
