@@ -1,7 +1,7 @@
 ### good evening, i'm achinth! 
 📍 new york, ny / vancouver, bc
 
-💻 [@palantir](https://palantir.com), former [@ubcresearch](), [@meta](https://about.facebook.com/meta), [@tesla](https://tesla.com), startups
+💻  [@corner](https://corner.inc), former [@palantir](https://palantir.com), [@meta](https://meta.com), [@tesla](https://tesla.com), startups
  
 📚 computer science + statistics 2023 [@ubc](https://cs.ubc.ca)
 
