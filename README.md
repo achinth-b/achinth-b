@@ -1,7 +1,7 @@
 ### hi, i'm achinth! 
 📍 vancouver, bc / new york, ny 
 
-💻  [@corner](https://corner.inc), former [@palantir](https://palantir.com), [@meta](https://meta.com), [@tesla](https://tesla.com), startups
+💻  former [@palantir](https://palantir.com), [@meta](https://meta.com), [@tesla](https://tesla.com), startups
  
 📚 computer science + statistics 2023 [@ubc](https://cs.ubc.ca)
 
